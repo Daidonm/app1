@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Header() {
+export function Header() {
     const aStyle = {
         display:'inline-block',
         color:'blue',
